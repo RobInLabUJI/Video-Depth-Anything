@@ -1,3 +1,10 @@
+Tested on:
+ * NVIDIA NVIDIA Jetson AGX Orin Developer Kit
+ * L4T 36.4.7 [ JetPack 6.2.1 ]
+ * Ubuntu 22.04.5 LTS
+ * Kernel Version: 5.15.148-tegra
+ * CUDA 12.6.68
+
 Download wheels from [https://pypi.jetson-ai-lab.io/jp6/cu126](https://pypi.jetson-ai-lab.io/jp6/cu126)
 
 * torch-2.8.0
