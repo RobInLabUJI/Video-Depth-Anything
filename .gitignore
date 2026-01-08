@@ -5,3 +5,8 @@ __pycache__
 */__pycache__
 *.pyc
 gradio*
+*.whl
+*.mp4
+decord
+vda
+
